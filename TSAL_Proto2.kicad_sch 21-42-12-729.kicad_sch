@@ -4557,7 +4557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AO3400A"
+		(property "Value" "AO3401A"
 			(at 187.96 55.8799 0)
 			(effects
 				(font
