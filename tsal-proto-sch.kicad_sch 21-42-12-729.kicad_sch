@@ -4857,7 +4857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOT23_DIO"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 111.76 86.36 0)
 			(effects
 				(font
@@ -5066,7 +5066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:FUSE_BK_PCS"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 45.72 53.848 90)
 			(effects
 				(font
@@ -5402,7 +5402,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 166.37 43.688 90)
 			(effects
 				(font
@@ -6074,7 +6074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Library:FUSE_BK_PCS"
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 38.608 93.98 90)
 			(effects
 				(font
